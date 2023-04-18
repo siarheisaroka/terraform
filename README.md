@@ -226,4 +226,4 @@ As a result vm instance should be launched by the instance groups and a new file
 - After a new instance launch, a new text file appears in the cloud storage bucket storage with the appropriate text.
 - Push *.tf configuration files to git
 
-# Working with Terraform state
+
